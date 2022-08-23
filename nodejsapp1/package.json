@@ -1,12 +1,13 @@
 {
   "name": "sfmc-jb-custom-activity-example",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "app.js",
   "author": "Salesforce Marketing Cloud",
   "description": "Journey Builder Custom Activities",
   "license": "BSD-3-Clause",
   "engines": {
-    "node": "16.17.0"
+    "node": "16.17.0",
+    "npm" : "8.18.0"
   },
   "scripts": {
     "dev": "concurrently \"npm start\" \"webpack --watch\"",

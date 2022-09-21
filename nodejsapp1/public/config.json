@@ -20,7 +20,7 @@
     },
     "arguments":{
       "execute":{
-          "url":"https://custom-activity-demoaltimetrik.herokuapp.com/activity/execute",
+          "url":"https://mc-yjgfgcdd45pxk4yznvx-1z39q.rest.marketingcloudapis.com/activity/execute",
           "verb":"POST",
           "body":"",
           "header":"",
